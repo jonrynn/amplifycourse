@@ -1,0 +1,16 @@
+{
+  "resourceName": "posimages",
+  "policyUUID": "e1cc311d",
+  "bucketName": "amplifyblogcourse5ff9254d4a8b4395aa049de9dd2d12",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
